@@ -1,0 +1,4 @@
+To jest testowy plik. 
+
+Chciałbym dzięki temu wytestować działanie github. 
+Oraz commit poprzez terminal.
